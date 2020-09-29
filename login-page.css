@@ -1,0 +1,47 @@
+.bottom-bord {
+  border-bottom: 1px solid #d8d8d8;
+}
+
+.same-bord {
+  text-align: center;
+  border-left: 1px solid #d8d8d8;
+  border-right: 1px solid #d8d8d8;
+  border-bottom: 1px solid #d8d8d8;
+}
+
+.black-bord {
+  border-color: black;
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: bold;
+  margin-top: 20px;
+  margin-left: 10px;
+  background-color: black;
+  color: white;
+  font-family: monospace;
+}
+
+.top-space {
+  margin-top: 50px;
+}
+
+.btn-area {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+h2 {
+  font-size: 100px;
+  font-weight: bold;
+  color: black;
+  font-family: monospace;
+  text-align: center;
+}
+
+h3 {
+  font-size: 50px;
+  font-weight: bold;
+  font-family: monospace;
+}
